@@ -1,0 +1,7 @@
+public class HelloWorld {
+  public static void main(String[] args){
+    System.out.println("Olá Mundo! Meu Nome é [Sofia] e este é meu primeiro
+    programa no GitHub.");
+    System.out.println("Turma:[2º3]");
+  }
+}
