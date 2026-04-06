@@ -1,2 +1,13 @@
-# hello-world-java
-Meu primeiro programa em Java no GitHub 
+package pessoa2;
+public class Pessoa2 {
+  public static void main(String[] args) {
+      String nome;
+      int idade;
+      public void caminhar (){
+          System.out.println("caminhando");
+      }
+      public void dormir(){
+          System.out.println("dormir");
+      }
+    }
+}
